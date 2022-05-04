@@ -9,3 +9,12 @@ For development teams who need to manage a project’s task schedule, Tasker is 
 ## Current State
 
 Tasker backend side is currently under development. This software allows you to create, edit, archive and unarchive a "project". It also allows you to add a work breakdown structure and edit it.
+
+
+![image](https://user-images.githubusercontent.com/20319268/166624283-ffa696e3-4a5d-4b5f-9e9d-e597f71a90de.png)
+
+![image](https://user-images.githubusercontent.com/20319268/166624337-b6fd2d22-6386-4201-a2f3-52ab93cac80a.png)
+
+![image](https://user-images.githubusercontent.com/20319268/166624392-5270e910-ec49-415f-9706-cbd28a699aaf.png)
+
+![image](https://user-images.githubusercontent.com/20319268/166624471-e687879e-11fc-4cd7-8b01-6b3053adb3f0.png)
